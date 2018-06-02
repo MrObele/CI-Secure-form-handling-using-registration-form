@@ -1,7 +1,7 @@
 # CI-Secure-form-handling-using-registration-form
 A codeigniter  simple registration form submission to demonstrate secure form handling and displaying of notification messages
 
-##Requirements
+## Requirements
 PHP 5 and above
 A good knowledge of PHP OOP programming
 Understanding of HTML, CSS (reqired for the form design) 
@@ -10,7 +10,7 @@ Knowledge of database administration tools (I will be using phpMyAdmin in this t
 A working server, local or live server to run the application
 A good text editor of your choice for proper writing and formatting of your code 
 
-##How to use
+## How to use
 Clone or download the folder
 If downloaded unzip the folder if cloned you have direct access to the folders and files
 Rename the folder to a suitable project name of your choice
